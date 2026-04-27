@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>串流方案推荐</title>
+      <link href="/2026/04/27/%E4%B8%B2%E6%B5%81%E6%96%B9%E6%A1%88%E6%8E%A8%E8%8D%90/"/>
+      <url>/2026/04/27/%E4%B8%B2%E6%B5%81%E6%96%B9%E6%A1%88%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于串流"><a href="#关于串流" class="headerlink" title="关于串流"></a>关于串流</h1><p>什么是串流？简单来说就是让一个设备的画面显示在另一个设备上，类似于<code>投屏</code>或<code>远控</code>。</p><p>我个人最常使用的串流场景有 <em><strong>手机显示电脑画面</strong></em>，<em><strong>电视显示电脑画面</strong></em></p><p>接下来介绍几种流行的串流方案。</p><h1 id="串流方案"><a href="#串流方案" class="headerlink" title="串流方案"></a>串流方案</h1><ul><li><p>uu远程<br><a href="https://uuyc.163.com/">点击直达</a><br>uu远程是目前市面上最简单，最方便的串流软件。背靠网易，主打高质且免费的串流服务。<br>使用教程：<br>1，在想要串流的两台设备上分别下载好对应版本的uu远程。<br>2，根据提示，配对两台设备。<br>3，开始串流。<br>软件提供了大量基础设置，可自由选择需要的功能，是串流时的首选。<br>此方案适合大部分串流场景，但软件自身不支持一些机型较老的电视端，因此略有遗憾。</p></li><li><p>Sunshine+Moonlight<br>这也是一种非常流行的串流方案，Sunshine+Moonlight两款软件的组合实现了相对简单易懂的串流体验，优点是延迟极低（与uu远程相比），并且画面质量上限高，支持多种控制器输入方式。缺点是仅限局域网环境下使用（如果你没有公网ip），并且对网络环境要求较高。<br>作为一个开源项目，它没有uu远程背后的服务器资源支持，但相对的，它提供了更大的自由度，并且不必担心突然收费的风险。<br>若要远距离串流，当然是uu远程；但如果有局域网条件的话，Sunshine+Moonlight方案绝对更值得一试。</p></li></ul><p>下载链接：<br><a href="https://github.com/LizardByte/Sunshine/releases/tag/v2025.924.154138">Sunshine</a><br><a href="https://github.com/moonlight-stream/moonlight-qt/releases">Moonlight</a>    </p><p>使用教程：<br>1，在主机端（输出画面的设备）下载Sunshine。<br>2，在显示端（接收画面的设备）下载Moonlight。<br>3，确保两台设备在局域网环境中（连接同一个wifi）<br>4，根据两端软件的提示进行配对。<br>5，开始串流。     </p><p>此方案适用于局域网环境下的所有使用场景，即使是老款电视也能安装使用，但根据网络质量不同，在流畅性方面可能会产生较大波动。<br>鉴于此种困境，以下额外给出第三种方案（非串流）</p><h1 id="jellyfin"><a href="#jellyfin" class="headerlink" title="jellyfin"></a>jellyfin</h1><p>家庭影院库方案。<br>jellyfin是一款适合与私人NAS搭配使用的自动刮削式家庭影音库管理软件，但即使没有NAS，这也仍然是一款优秀的软件。<br>本方案非串流方法，但对于使用串流只是为了在更喜欢的设备上看下载好的影视的人，这是极佳的方案。<br>jellyfin通用于全平台，下载链接见下方视频教程。</p><p> <a href="https://www.bilibili.com/video/BV1hF411k7GV/?spm_id_from=333.337.search-card.all.click&vd_source=46c3482b4f1191a8a76c18319bfcea95">点此查看推荐教程</a></p><p> 本方案具有多设备适配，网络质量要求低，高水准传输链路等多个优点。</p><p> jellyfin于github开源，完全免费使用，对只有多设备观看影视需求的用户来说没有明显缺点。</p><p> 本方案建议搭配<a href="https://dacongdaohang.ccwu.cc/2026/04/27/%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84%E8%A7%82%E7%9C%8B%E5%8A%A8%E6%BC%AB-%E7%94%B5%E5%BD%B1/">这篇文章</a>，使用体验更佳。</p><p> #完</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动漫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更优雅的观看动漫/电影</title>
       <link href="/2026/04/27/%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84%E8%A7%82%E7%9C%8B%E5%8A%A8%E6%BC%AB-%E7%94%B5%E5%BD%B1/"/>
       <url>/2026/04/27/%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84%E8%A7%82%E7%9C%8B%E5%8A%A8%E6%BC%AB-%E7%94%B5%E5%BD%B1/</url>
