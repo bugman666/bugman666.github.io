@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>RVC变声器</title>
+      <link href="/2026/05/14/RVC%E5%8F%98%E5%A3%B0%E5%99%A8/"/>
+      <url>/2026/05/14/RVC%E5%8F%98%E5%A3%B0%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<p>本教程收录GPT-SoVITS相关技巧。</p><h1 id="官方文档"><a href="#官方文档" class="headerlink" title="官方文档"></a>官方文档</h1><p>tts（文本转语音）：<a href="https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e">直达</a></p><p>svc（歌声转换）：<a href="https://www.yuque.com/baicaigongchang1145haoyuangong/imh23d">直达</a></p><h1 id="使用技巧"><a href="#使用技巧" class="headerlink" title="使用技巧"></a>使用技巧</h1><p>主要教程请自行查看文档，下面分享一些个人使用时的技巧。</p><ul><li>如果需要使用本地模型对接aibot，那么你需要使用模型的api，即模型根目录的api_v2.py文件。<br> 这时，你需要在根目录打开终端，输入<code>.\runtime\python.exe api_v2.py -a 127.0.0.1 -p 9880</code>，此命令将使用模型自带的python环境启动api文件路径，适用于直接双击无法正常运行的情况。</li></ul><h1 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 趣味项目 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>学习版pc游戏下载</title>
       <link href="/2026/04/28/%E5%AD%A6%E4%B9%A0%E7%89%88pc%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD/"/>
       <url>/2026/04/28/%E5%AD%A6%E4%B9%A0%E7%89%88pc%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD/</url>
